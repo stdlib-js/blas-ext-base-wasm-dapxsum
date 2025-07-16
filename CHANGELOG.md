@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-07-16)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7ee7d36`](https://github.com/stdlib-js/stdlib/commit/7ee7d3670bc523f7353b5bf2d048a144a2c67e01) - **docs:** fix typo _(by Athan Reines)_
 -   [`654827d`](https://github.com/stdlib-js/stdlib/commit/654827df5358f2c70fde0259fbbcbfb607076119) - **feat:** add `blas/ext/base/wasm/dapxsum` [(#5634)](https://github.com/stdlib-js/stdlib/pull/5634) _(by Vivek Maurya, Athan Reines, stdlib-bot)_
 
 </details>
