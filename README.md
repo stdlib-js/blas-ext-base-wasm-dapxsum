@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm-dapxsum@esm/index.mjs';
+import dapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm-dapxsum@v0.1.0-esm/index.mjs';
 ```
 
 #### dapxsum.main( N, alpha, x, strideX )
@@ -270,7 +270,7 @@ The function has the following additional parameters:
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm-dapxsum@esm/index.mjs';
+import dapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm-dapxsum@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
